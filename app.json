@@ -1,4 +1,15 @@
 {
-  "name": "mobile",
-  "displayName": "mobile"
+    "env": "dev",
+    "apiUrl": "https://mata-da-bica-run.com/api",
+    "name": "mobile",
+    "displayName": "mobile",
+    "style": {
+        "colors": {
+            "primary": "#9ece6a",
+            "secondary": "#1A1B26",
+            "dark": "#16161E",
+            "gray": "#6c757d",
+            "danger": "#dc3545"
+        }
+    }
 }
